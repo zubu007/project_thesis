@@ -1,0 +1,336 @@
+The effect of bump height on the strain variation is studied.
+The study occurs during the thermal cycling test.
+The thermal cycling test involves ACA flip-chip joints.
+Kuntjoro Pinardi is an individual.
+Zonghe Lai is a Member of IEEE.
+Dietmar Vogel is an individual.
+Yi Lan Kang is an individual.
+Johan Liu is a Senior Member of IEEE.
+Sheng Liu is an Associate Member of IEEE.
+Ralf Haug is an individual.
+Magnus Willander is a Member of IEEE.
+Flip-chip joining using anisotropically conductive adhesive (ACA) is a technique for electronics packaging.
+Many factors can influence the reliability of the ACA flip-chip joint.
+Bump height is one of the factors that can influence the reliability of the ACA flip-chip joint.
+The strain development during the thermal cycling test of flip-chip joining with different bump heights was studied in this work.
+The effect of bump height is significant in the interface between the bumps and the pads.
+A bigger volume area of high strain is found for higher bump in the interface between the bumps and the pads.
+The calculations show that there is practically no effect of the bump height on the strain variation in the bumps.
+The calculations show that there is practically no effect of the bump height on the strain variation in the pads.
+Anisotropically conductive adhesive is a term.
+Finite element is a term.
+Strains are a term.
+Stresses are a term.
+LIP-CHIP joining using anisotropically conductive adhesive has attracted much interest.
+The interest in LIP-CHIP joining using anisotropically conductive adhesive is for reasons of ultra-fine.
+Low-cost capability is referenced in sources [1]-[5].
+One important issue is whether the interconnection technology is suitable for use in volume production.
+The suitability for use in volume production depends on the reliability of joints.
+Many factors can affect the reliability of joints.
+The joint strength can affect the reliability of joints.
+The external environment can affect the reliability of joints.
+Sufficient bonding pressure will improve the mechanical contact between the bonded elements.
+Suitable design of the ACA assembly configurations will improve the mechanical contact between the bonded elements.
+Efforts to reduce the external degradative effect on ACA joints include the selection of bonding materials.
+Bonding materials are selected based on their thermal, mechanical, and electrical properties.
+Materials with small differences in properties are used for bonding.
+The manuscript was received on October 28, 1999.
+The manuscript was revised on January 31, 2000.
+The paper was presented at PEP 99, The Second IEEE International Symposium on Polymeric Electronics Packaging.
+PEP 99 was held in Gothenburg, Sweden from October 24–28, 1999.
+This work was supported by R. Bosch, Germany.
+This work was supported by the IVF Solderless Flip-Chip Consortium member companies.
+This work was supported by the National Swedish Board for Industrial and Technical Development.
+The support was within the Sino-Swedish bilateral research Program on 'Characterization and Development on Novel Interconnecting Materials for Electronics Packaging.'
+This work was recommended for publication by Editor J. Liu.
+The recommendation for publication was based on the evaluation of the reviewers' comments.
+K. Pinardi is with the Physical Electronics and Photonics Department at Chalmers University of Technology, Göteborg 412 96, Sweden.
+M. Willander is with the Physical Electronics and Photonics Department at Chalmers University of Technology, Göteborg 412 96, Sweden.
+Z. Lai is with the Division of Electronics Production at Chalmers University of Technology, Göteborg 412 96, Sweden.
+Z. Lai is also with the IVF-The Swedish Institute of Production Engineering Research, Mölndal 431 53, Sweden.
+J. Liu is with the Division of Electronics Production at Chalmers University of Technology, Göteborg 412 96, Sweden.
+D. Vogel is with the Fraunhofer-Institut für Zuverlässigkeit und Mikrointegration (IZM), Berlin, Germany.
+Y. L. Kang is with the Department of Mechanics at Tianjing University, China.
+S. Liu is with the Electronic Packaging Laboratory at Wayne State University, Detroit, MI 48202 USA.
+R. Haug is with the Robert Bosch GmbH, Stuttgart, Germany.
+The Publisher Item Identifier is S 1521-3331(00)04144-1.
+Differences in coefficient of thermal expansion (CTE) are noted.
+For ACA joining, the bumps and pads are made of hard materials such as Ni or Cu.
+The bumps and the pads are very strong mechanically.
+The bumps and the pads cannot easily be deformed by the external stresses found in their service environments.
+The interface between the bump and pad plays an important role in determining the juncture of the ACA joint.
+The interface between the bump and pad plays an important role in determining the joint strength.
+It is possible that the volume of adhesive in the joint influences the interconnection reliability.
+Lai et al. have investigated the effect of bump height.
+Lai et al.'s experiments indicated that for joints with a rigid substrate, an excessively high bump could induce poor reliability.
+This work studied the reason for the poor reliability of ACA flip-chip joints on FR4 rigid substrate.
+The reason for the poor reliability of ACA flip-chip joints on FR4 rigid substrate is due to the effect of bump height on strain variation.
+The effect of bump height on strain variation was observed during the thermal cycling test.
+The finite element analysis (FEM) is based on the test chip shown in Figure 1.
+The dimension of the chips was 7.5 mm by 7.5 mm.
+The bump size on the chips was 100 micrometers in diameter.
+The pitch on the chips was 450 micrometers.
+Four different values of bump height are used on the chips.
+The bump heights used on the chips are 4 micrometers, 20 micrometers, 40 micrometers, and 70 micrometers.
+The chip configuration is shown in Figure 1.
+The finite element procedure is evaluated in two-dimensional plane strain idealization.
+The finite element structure is shown in Figure 2.
+The thickness of the ACA layers between the bumps and the substrate pads is assumed to be 3 micrometers in the finite element structure.
+The finite element analysis is performed for half of the structure due to the symmetry in the geometry.
+The simulations are performed for a thermal load.
+The thermal load involves a cyclic temperature change between 40 degrees Celsius and 125 degrees Celsius.
+The hold time for the thermal load is 15 minutes.
+The ramp time for the thermal load is 1.5 minutes.
+The material properties for all materials except ACA film are given in Table I.
+The mechanical properties of ACA film are based on measurements described in reference [6].
+Detailed experimental results of the measurements will be published.
+The studies on ACA film include different relative humidity values and different temperatures.
+The coefficient of thermal expansion (CTE) of ACA film used in the simulation is between 50 CTE and 80 CTE (ppm).
+The typical curve of load versus deformation at 60 degrees Celsius, 0.02/min strain rate, for three different relative humidity values is shown in Figure 3(a).
+The stress-strain curve at room condition for different temperatures is given in Figure 3(b).
+Figure 3(a) shows the influence of the relative humidity on the mechanical properties of ACF tested with the same strain rate.
+Fig. 2 is a schematic picture.
+The schematic picture in Fig. 2 is of a flip chip package.
+The flip chip package in Fig. 2 is used in stress analysis.
+The mechanical strength increases as relative humidity decreases.
+The Young’s Modulus decreases as the temperature increases.
+The decrease in Young’s Modulus with increasing temperature is shown in Figure 3(b).
+Fig. 4 shows the Von Mises stress distribution for the flip chip structure when the temperature load is at C.
+The maximum value of the Von Mises stress is located at the outmost joints.
+The outmost joints are indicated by MX in the picture.
+The same results are obtained for the same structure when the temperature load is at C.
+The maximum value of the Von Mises stress is found at the outmost joint when the temperature load is at C.
+Fig. 5 shows the strain fields at the outmost joint when C.
+The distribution is for the case of 20 m bump height.
+The top is mentioned in the context of the strain fields at the outmost joint.
+Fig. 3(a) presents load versus deformation curves.
+The load versus deformation curves are measured at 60 degrees Celsius.
+The load versus deformation curves are measured at a strain rate of 0.02 per minute.
+The load versus deformation curves are measured for three different relative humidity values.
+Fig. 3(b) presents the stress-strain curve.
+The stress-strain curve is measured at room condition.
+The stress-strain curve is measured for three different temperatures.
+Fig. 4 shows the Von Mises stress distribution for the flip chip package.
+The temperature for the flip chip package is 40 degrees Celsius.
+The stress unit is measured in MPa.
+The bottom figure represents the shear strain.
+The contours are chosen between 0.02 to 0.02 for the pattern boxes given in the figure.
+The strain is more than 0.02 if the color is black.
+The same contours are used for all the strain figures.
+Figure 6 shows the same figure as Figure 5 but for the case of 4 m bump height.
+Figure 7 shows the same figure as Figure 5 but for the case of 40 m.
+The main features of the simulations are described.
+The strain distribution in the joint is not symmetric.
+The maximum strain is located in the adhesive layer.
+The value of the strain for the outmost joints at location A is higher than the strain located at location B.
+Location A and location B are shown in Figure 5.
+The strain in the bumps and in the pads are in the same order of magnitude.
+The strain value ranges between 0.004 and 0.004 in the bumps and pads area.
+The shear strain is very high, more than 0.02, in the adhesive area and in the PCB substrate.
+The shear strain is very small, less than 0.001, in the pad and in the bump.
+The effect of bump height can be seen in the strain changes in the interface between the bumps and the pads.
+The volume fraction covered by high strain value, shown by black contours, is more for higher bump.
+The effect of bump height is significant for the stress and the strain distributions in the shear directions.
+The effect of the bump height could not be found in the bumps and in the pads.
+All the figures show that the maximum strains are located at the interfaces in the adhesive area or in the PCB substrate.
+This large strain is due to the CTE mismatch of the Silicon die and the composite substrate.
+Fig. 5 shows the strain distribution at the outermost bump.
+The bump height in Fig. 5 is 20 micrometers.
+The top section of Fig. 5 displays strain.
+The middle section of Fig. 5 displays strain.
+The bottom section of Fig. 5 displays shear strain.
+Fig. 6 shows the strain distribution for a case of 4 micrometer bump height.
+The top part of Fig. 6 displays strain.
+The middle part of Fig. 6 displays strain.
+The bottom part of Fig. 6 displays shear strain.
+Fig. 7 is the same as Fig. 5.
+Fig. 7 is for the case of 40 micrometer bump height.
+A MicroDAC is a deformation measurement method.
+A MicroDAC is based on digital image correlation.
+In-plane surface strain fields of components under thermo-mechanical load are determined from optical and electron optical micrographs.
+Speckle photographic basics are used to extend in-plane deformation measurement.
+The high resolution of scanning electron microscopes allows measuring local strain fields inside such small structures of characteristic size of 50 m and less.
+A correlation-based image-processing algorithm is applied to determine a set of local pattern displacements between two object states.
+Whole displacement fields are measured.
+The software is able to track local structures with a subpixel accuracy of approximately 10 nm.
+Fig. 8 shows the strain fields measured by MicroDAC for one ACA joint heated from room temperature to 116 C.
+The strain fields are for the second bump from the right side.
+The measurement is performed for a different test chip other than the test chip shown in Fig. 1.
+The general situation for this joint is that there is no essential shear in the field of measurement.
+A relatively high strain is localized in the interface between the bump and the pad.
+The measurements indicate a specific finding.
+Global thermal mismatch between the board and the silicon does not result in high shear at the outermost bump interconnects.
+The calculations and the experiments show that the strain is highest for the outermost joint.
+The experiments indicate that the dominant strain is in the normal direction.
+The measurements give a relatively high strain (0.003) in the direction in the pads region.
+This high strain in the pads region is not found in the calculations.
+Strain is localized in the interface between the bumps and the pads.
+A relatively low value shear strain (0.001) is measured in the outermost joints.
+The effect of bump height is significant only in the interface between the bumps and the pads.
+A bigger volume area of high strain is found for a higher bump.
+There is practically no effect of the bump height on the strain changes in the bumps and in the pads.
+The effect of bump height is different for Anisotropic Conductive Adhesive (ACA) joints than for solder joints.
+For solder joints, increasing the bump height (stand-off) will increase the fatigue life of joints.
+A high bump can relax the shear stresses in the corner regions of the solder.
+This increase in fatigue life due to high bump is not the case for ACA flip-chip joints.
+The effect of the bump height in ACA joints will only be limited to the interface area between the bump and the pad.
+Bump height is not a controlling factor for the reliability of ACA joints.
+Lai et al. showed that for ACA joints with rigid substrates, an excessively high bump (bump height of 70 micrometers) could induce poor reliability.
+The reliability problems of having a high bump can occur since an excessively high bump can easily cause a porous structure in the ACA layers.
+Both measurement and simulation indicate that the strain is highest for the outermost joint.
+Both measurement and simulation indicate that the normal strain is in the same order of magnitude.
+Compared to the experiments, the calculations show high shear strain in the bump and in the pad.
+The reason for the uncoincidence may come from both measurement accuracy and ACA parameters used in the calculations.
+Further work is necessary to include some features that are not included at present.
+These features include the effect of particle size and particle distributions on the strains and stresses variation.
+These features also include the effect of the planarity of the substrate, bumps, and pads.
+The authors would like to thank Dr. Kristiansen.
+Dr. Kristiansen provided useful comments.
+Dr. Kristiansen provided suggestions.
+Z. Lai is an author.
+R. Lai is an author.
+K. Persson is an author.
+J. Liu is an author.
+The authors wrote a paper titled 'Effect of bump height on the reliability of ACA flip-chip joining with FR4 rigid and polyimide flexible substrate'.
+The paper was published in the Journal of Electronic Manufacturing.
+The volume of the journal in which the paper was published is 8.
+The issue numbers of the journal in which the paper was published are 3 and 4.
+The paper was published on pages 1 to 8.
+The paper was published in the year 1998.
+It appears that the input provided is incomplete and lacks clear context or full sentences to decompose into simple propositions.
+Please provide a complete and coherent text or sentence for analysis.
+I. Watanabe and K. Takemura authored a work.
+The work by I. Watanabe and K. Takemura is titled 'Anisotropic conductive adhesive films for flip-chip interconnection'.
+The work by I. Watanabe and K. Takemura is included in 'Conductive Adhesives for Electronics Packaging'.
+J. Liu is the editor of 'Conductive Adhesives for Electronics Packaging'.
+The publication 'Conductive Adhesives for Electronics Packaging' was published by Electrochemical Publications Ltd.
+Electrochemical Publications Ltd. is located in London, U.K.
+The publication year of 'Conductive Adhesives for Electronics Packaging' is 1998.
+M.-J. Yim, K. W. Paik, Y. K. Kim, and H. N. Hwang conducted a study.
+The study focuses on the electrical conduction mechanism of anisotropically conductive film (ACF).
+The anisotropically conductive film (ACF) is used for LCD packaging applications.
+The study was published in the book titled 'Advances in Electronic Packaging'.
+The book 'Advances in Electronic Packaging' was published in New York.
+The publisher of the book 'Advances in Electronic Packaging' is EEP.
+The study was published in 1997.
+The study appears in volume 19-1 of 'Advances in Electronic Packaging'.
+The study is found on pages 65-72 of the volume.
+M.-J. Yim, Y.-D. Jeon, and K.-W. Paik authored a paper.
+The title of the paper is 'Electroless Ni bumped flip chip interconnections on an organic substrate using anisotropic conductive adhesives films (ACAs/ACF’s)'.
+The paper was presented as an extended abstract.
+The presentation occurred at the IMAPS Workshop on Flip Chip Technology.
+The workshop took place in Atlanta, GA.
+The workshop was organized by IMAPS.
+The presentation was in March 1999.
+J. Liu, Y. L. Kang, S. Liu, and J. Liu engaged in a private communication.
+J. H. Lau and Y.-H. Pao authored the book titled 'Solder Joint Reliability of BGA, CSP, Flip Chip, and Fine Pitch SMT Assemblies.'
+The book was published in 1997.
+The book was published in New York.
+The publisher of the book is McGraw-Hill.
+Kuntjoro Pinardi received the M.Sc. degree in electrical engineering from Delft University of Technology in 1994.
+Delft University of Technology is located in Delft, The Netherlands.
+Kuntjoro Pinardi worked with IMEC from 1994 to 1997.
+IMEC is located in Leuven, Belgium.
+Kuntjoro Pinardi did research on stresses and strains of semiconductor devices from 1994 to 1997.
+Kuntjoro Pinardi is currently doing research on finite element modeling of different electronic packages.
+Zonghe Lai received the Ph.D. degree in materials science from Chalmers University of Technology, Mölndal, Sweden.
+Zonghe Lai joined IVF, Mölndal, in 1994.
+Zonghe Lai works on flip-chip assembly and chip on board at IVF, Mölndal.
+Zonghe Lai's current research interest concentrates on the reliability and the failure mechanism of flip-chip adhesive joints.
+Zonghe Lai's current research interest concentrates on the bondability of wire bonding.
+Zonghe Lai especially focuses on the microstructure analysis of materials.
+Zonghe Lai uses scanning electron microscopy (SEM) for microstructure analysis of materials.
+Zonghe Lai uses transmission electron microscopy (TEM) for microstructure analysis of materials.
+Zonghe Lai uses other surface analysis instruments for microstructure analysis of materials.
+Zonghe Lai is currently working part time at the Division of Electronics Production at Chalmers University of Technology.
+Dietmar Vogel received the Ph.D. degree in physics from the University St. Petersburg, Russia, in 1980.
+Dietmar Vogel joined the Institute of Mechanics Chemnitz in 1983.
+Since 1993, Dietmar Vogel has been working with the Fraunhofer Institute for Reliability and Microintegration (IZM), Berlin, Germany.
+Dietmar Vogel's work at the Fraunhofer Institute for Reliability and Microintegration is concentrated on laser experiments.
+Dietmar Vogel's work at the Fraunhofer Institute for Reliability and Microintegration involves micro deformation analysis (MicroDAC).
+Dietmar Vogel's work at the Fraunhofer Institute for Reliability and Microintegration is in the field of electronic packaging.
+Yi Lan Kang is a Professor.
+Yi Lan Kang is with the Department of Mechanics.
+The Department of Mechanics is at Tianjing University.
+Tianjing University is in China.
+Johan Liu received the M.S. degree in science from the Royal Institute of Technology, Stockholm, Sweden, in 1984.
+Johan Liu received the Ph.D. degree in materials processing technology from the Royal Institute of Technology, Stockholm, Sweden, in 1989.
+Johan Liu was with IVF, Mölndal, Sweden, until 1999.
+Johan Liu was a Team Leader at IVF, Mölndal, Sweden.
+Johan Liu coordinated multiclient research programs concerning interconnecting technology at IVF, Mölndal, Sweden.
+The research programs included conductive adhesive joining, chip on board, and lead free solders.
+Johan Liu is now a Professor at Chalmers University of Technology, Sweden.
+Johan Liu has been chairing the Division of Electronics Production at Chalmers University of Technology, Sweden, since April 1999.
+Johan Liu serves as the European Editor of the Journal of Electronics Manufacturing.
+Johan Liu is a member of IMAPS.
+Johan Liu was one of the initiators for the international forum.
+A relatively low value shear strain is measured.
+The value of the shear strain is 0.001.
+Sheng Liu received the B.S. degree in aircraft design from Nanjing University of Aeronautics and Astronautics in 1983.
+Sheng Liu received the M.S. degree in aircraft design from Nanjing University of Aeronautics and Astronautics in 1986.
+Nanjing University of Aeronautics and Astronautics is located in Nanjing, China.
+Sheng Liu received the Ph.D. degree in applied mechanics from Stanford University in 1992.
+Stanford University is located in Stanford, CA.
+Sheng Liu joined Wayne State University in 1995.
+Wayne State University is located in Detroit, MI.
+Sheng Liu is an Associate Professor at Wayne State University.
+Sheng Liu is the Director of the Electronic Packaging Laboratory at Wayne State University.
+Sheng Liu was with the Florida Institute of Technology from 1992 to 1995.
+The Florida Institute of Technology is located in Melbourne.
+Sheng Liu was an Assistant Professor of Mechanical and Aerospace Engineering at the Florida Institute of Technology.
+Sheng Liu was with MARC Analysis Research Corporation from January 1992 to May 1992.
+MARC Analysis Research Corporation is a nonlinear finite element company located in Palo Alto, CA.
+Sheng Liu was a Consulting Engineer at MARC Analysis Research Corporation.
+Sheng Liu was with Chengdu Aircraft Company from January 1986 to February 1988.
+Chengdu Aircraft Company is located in China.
+Sheng Liu was a Structural Design Engineer at Chengdu Aircraft Company.
+Sheng Liu has been working on mechanical and thermal design and analysis of composite materials.
+Sheng Liu has been working on fracture and progressive damage of layered materials and structures.
+Sheng Liu's basic research goal is to advance the application of mechanics in the analysis, design, and fabrication of advanced materials and structures.
+Sheng Liu's involvement in experiments includes engineering instrumentation, theoretical development, extensive numerical modeling, and verification.
+Sheng Liu interacts with industry at every stage of the development.
+Sheng Liu has published more than 90 technical articles in layered composites and packaging thermo-mechanical behaviors and reliability.
+Sheng Liu received the Presidential Faculty Fellows award.
+Sheng Liu received the ASME EEPD Young Engineer Award.
+Sheng Liu is a member of ASME, ISHM, AIAA, ASTM, and SAMPE.
+Sheng Liu is an Associate Editor for the IEEE TRANSACTIONS ON ELECTRONICS PACKAGING MANUFACTURING.
+Sheng Liu is a member of the ASME EEPD Manufacturing committee.
+Sheng Liu is a member of the ASME Division of Applied Mechanics Composite Committee.
+Sheng Liu is a member of the ASME Material Processing Committee.
+Sheng Liu served as NSF Panelist for polymer and composite processing proposal reviews.
+Sheng Liu has been involved in numerous national and international symposiums and meetings.
+Sheng Liu was one of the initiators of the 1st International Symposium of Electronic Packaging Technology in China in 1994 (ISEPT’94).
+Sheng Liu was the Co-Chair of the Joint 2nd ISEPT and 1st ISHM International Electronic Packaging Conference in Shanghai, China, in December 1996.
+Ralf Haug received the diploma degree in physics from the University of Stuttgart, Germany.
+Ralf Haug received the Ph.D. degree in physics from the University of Stuttgart, Germany.
+Since 1989, Ralf Haug has been with the Corporate Research and Development Department at Robert Bosch GmbH in Stuttgart, Germany.
+Ralf Haug's work centers on polymer materials for electronics.
+Ralf Haug's work centers on conduction mechanisms of thick film resistors.
+Ralf Haug's work centers on electronic packaging.
+Ralf Haug's research involved conductive adhesives in electronics.
+Ralf Haug's research involved especially fundamentals of anisotropically conductive materials.
+Ralf Haug's research involved conduction mechanisms of isotropically conductive adhesives for Surface-Mount Technology (SMT).
+Ralf Haug's research involved flip-chip assembly technology with adhesives.
+Magnus Willander was born in Varberg, Sweden, in 1948.
+Magnus Willander received the M.Sc. degree in mathematics and physics from Lund University in 1973.
+Lund University is located in Lund, Sweden.
+Magnus Willander received the M.Sc. degree in technical physics from Uppsala University in 1976.
+Uppsala University is located in Uppsala, Sweden.
+Magnus Willander received the Ph.D. degree in applied physics from the Royal Institute of Technology in 1984.
+The Royal Institute of Technology is located in Stockholm, Sweden.
+Magnus Willander was a Circuit Designer at Philips Corporation from 1976 to 1980.
+Philips Corporation is located in Stockholm, Sweden.
+Magnus Willander was a Research Assistant at the Royal Institute of Technology from 1980 to 1984.
+Magnus Willander was a Specialist in electronics at Nobel Industries from 1984 to 1985.
+Nobel Industries is located in Stockholm, Sweden.
+Magnus Willander was an Associate Professor at Linköping University from 1985 to 1995.
+Linköping University is located in Linköping, Sweden.
+Magnus Willander built up the Device Physics Group at Linköping University.
+The Device Physics Group worked on quantum devices, field-effect and bipolar transistors, and photonic devices.
+The Device Physics Group also worked on transport and recombination properties of semiconductors.
+Magnus Willander's research at Linköping University included epitaxial silicon, silicon/germanium, silicon carbide, InP/InGaAs, GaAs/AlGaAs, and polymer materials.
+Since 1995, Magnus Willander has been a Professor of physics at Göteborg University and Chalmers University of Technology.
+Göteborg University and Chalmers University of Technology are located in Gothenburg, Sweden.
+Magnus Willander's professorship focuses on nanoelectronics, photonics, and mesoscopic systems.
+Magnus Willander has published numerous scientific publications in the areas of nanoelectronics, photonics, and mesoscopic systems.
+Magnus Willander is a member of the American Physical Society (APS).

@@ -1,0 +1,522 @@
+Evaluation Warning : The document was created with Spire.PDF for Python.          IEEE TRANSACTIONS ON COMPONENTS AND PACKAGING TECHNOLOGIES, VOL. 23, NO. 3, SEPTEMBER 2000                                        447
+
+
+
+          Effect of Bump Height on the Strain Variation During
+
+             the Thermal Cycling Test of ACA Flip-Chip Joints
+
+
+
+             Kuntjoro Pinardi, Zonghe Lai, Member, IEEE, Dietmar Vogel, Yi Lan Kang, Johan Liu, Senior Member, IEEE,
+
+                          Sheng Liu, Associate Member, IEEE, Ralf Haug, and Magnus Willander, Member, IEEE
+
+
+
+
+
+
+
+             Abstract—Flip-chip joining using anisotropically conductive  ferences in coefficient of thermal expansion (CTE) [4], [5]. For
+
+          adhesive (ACA) has become a very attractive technique for  ACA joining, the bumps and pads are made of hard materials
+
+          electronics packaging. Many factors can influence the reliability
+
+                                                                              such as Ni or Cu. The bumps and the pads are very strong me-
+
+          of the ACA flip-chip joint. Bump height, is one of these factors. In
+
+                                                                              chanically that they can not easily be deformed by the external
+
+          this work, the strain development during the thermal cycling test
+
+          of flip-chip joining with different bump heights was studied. The  stresses found in their service environments. The interface be-
+
+          effect of bump height is significant in the interface between the  tween the bump and pad will play an important role in deter-
+
+          bumps and the pads. Bigger volume area of high strain is found  mining the juncture of the ACA joint and the joint strength.
+
+          for higher bump in the interface between the bumps and the pads.
+
+                                                                              Therefore it is possible that the volume of adhesive in the joint
+
+          Our calculations show that there is practically no effect of the
+
+                                                                              will be one of the effects to influence the interconnection reli-
+
+          bump height on the strain variation in the bumps and in the pads.
+
+                                                                              ability. To study the effect of the adhesive volume in the struc-
+
+            Index  Terms—Anisotropically  conductive  adhesive,  finite
+
+                                                                              ture indirectly Laiet al.[1] have investigated the effect of bump
+
+          element, strains, stresses.
+
+                                                                              height. Their experiments indicated that for joints with rigid
+
+                                                                              substrate an excessively high bump could induce poor relia-
+
+                                 I. INTRODUCTION                              bility. This work studied whether the reason for the poor reli-
+
+                                                                              ability of ACA flip-chip joints on FR4 rigid substrate is due to
+
+               LIP-CHIP joining using anisotropically conductive adhe-
+
+                                                                              the effect of bump height on strain variation during the thermal
+
+          Fsive has attracted much interest for reasons of ultra-fine and
+
+                                                                              cycling test.
+
+          low-cost capability [1]–[5]. One important issue whether this in-
+
+          terconnection technology is suitable to be used in a volume pro-
+
+          duction depends on the reliability of joints. Many factors can                         II. SAMPLE DESCRIPTION
+
+          affect reliability such as the joint strength and the external en-
+
+                                                                                The finite element (FEM) analysis is based on the test chip
+
+          vironment. Sufficient bonding pressure and suitable design of
+
+                                                                              shown in Fig. 1. The dimension of the chips was 7.5  7.5 mm,
+
+          the ACA assembly configurations will improve the mechanical
+
+                                                                              the bump size was 100  m in diameter and the pitch was
+
+          contact between the bonded elements [3]. Efforts to reduce the
+
+                                                                              450  m. four different values of bump height are used, which
+
+          external degradative effect on ACA joints include the selection
+
+                                                                              are: 4  m, 20  m, 40  m and 70  m. The chip configuration is
+
+          of bonding materials based on their thermal, mechanical and
+
+                                                                              shown in Fig. 1.
+
+          electrical properties, for example using materials with small dif-
+
+                                                                                The FE procedure is evaluated in two-dimensional plane
+
+                                                                              strain idealization. The FE structure is given in Fig. 2 by
+
+            Manuscript received October 28, 1999; revised January 31, 2000. This  assuming the thickness of the ACA layers between the bumps
+
+          paper was presented at PEP 99, The Second IEEE International Symposium  and the substrate pads is 3  m. The FE is performed for
+
+          on Polymeric Electronics Packaging, Gothenberg, Sweden, October 24–28,  half of the structure due to the symmetry in the geometry.
+
+          1999. This work was supported by R. Bosch, Germany, the IVF Solderless
+
+          Flip-Chip Consortium member companies, and the National Swedish Board  The simulations are performed for a thermal load of a cyclic
+
+          for Industrial and Technical Development within the Sino-Swedish bilateral  temperature change between  40 C and 125 C with 15 min
+
+          research Program on “Characterization and Development on Novel Intercon-  hold time and 1.5 min ramp time.
+
+          necting Materials for Electronics Packaging.” This work was recommended for
+
+          publication by Editor J. Liu upon evaluation of the reviewers’ comments.   The material properties are for all the materials except ACA
+
+            K. Pinardi and M. Willander are with the Physical Electronics and Photonics  film is given in Table I. The mechanical properties of ACA film
+
+          Department, Chalmers University of Technology, Göteborg 412 96, Sweden.
+
+            Z. Lai is with the Division of Electronics Production, Department of Pro-  is based on the measurements performed described in [6] (De-
+
+          duction Engineering, Chalmers University of Technology, Göteborg 412 96,  tailed experimental results will be published). They have studied
+
+          Sweden. He is also with the IVF-The Swedish Institute of Production Engi-  the mechanical properties of ACA films for different relative hu-
+
+          neering Research, Mölndal 431 53, Sweden.
+
+            J. Liu is with the Division of Electronics Production, Department of Pro-  midity values and for different temperatures. Note that the CTE
+
+          duction Engineering, Chalmers University of Technology, Göteborg 412 96,  of ACA film used in the simulation is 50  CTE  80 (ppm).
+
+          Sweden.                                                             The typical curve of load         vs. deformation       (mm) (at
+
+            D. Vogel is with the Fraunhofer-Institut für Zuverlässigkeit und Mikrointe-  60 C, 0.02/min strain rate, for three different relative humidity
+
+          gration (IZM), Berlin, Germany.
+
+            Y. L. Kang is with the Department of Mechanics, Tianjing University, China.  (RH) values) is shown in Fig. 3(a). The stress-strain curve at
+
+            S. Liu is with the Electronic Packaging Laboratory, Wayne State University,  room condition for different temperatures is given in Fig. 3(b).
+
+          Detroit, MI 48202 USA.
+
+            R. Haug is with the Robert Bosch GmbH, Stuttgart, Germany.          Fig. 3(a) shows the influence of the relative humidity on the
+
+            Publisher Item Identifier S 1521-3331(00)04144-1.                 mechanical properties of ACF tested with same strain rate and
+
+
+
+                                                              1521–3331/00$10.00 © 2000 IEEE
+
+
+
+              Authorized licensed use limited to: Universitatsbibliothek Erlangen Nurnberg. Downloaded on April 29,2024 at 12:01:46 UTC from IEEE Xplore.  Restrictions apply. 
+
+
+
+
+Evaluation Warning : The document was created with Spire.PDF for Python.          448                                       IEEE TRANSACTIONS ON COMPONENTS AND PACKAGING TECHNOLOGIES, VOL. 23, NO. 3, SEPTEMBER 2000
+
+
+
+
+
+
+
+                                                                              Fig. 3.  (a) Load versus deformation curves at 60 C, 0.02/min.strain rate,
+
+                                                                              for three different relative humidity values. (b) The stress-strain curve at room
+
+                                                                              condition for three different temperatures.
+
+
+
+          Fig. 1.  Test chip.
+
+
+
+
+
+
+
+          Fig. 2.  Schematic picture of flip chip package used in stress analysis.   Fig. 4.  Von Mises stress distribution for the flip chip package atT =
+Evaluation Warning : The document was created with Spire.PDF for Python.          PINARDIet al.: EFFECT OF BUMP HEIGHT ON THE STRAIN VARIATION                                                                      449
+
+
+
+
+
+
+
+          Fig. 5.  Strain distribution at the outmost bump for case of 20m bump height.
+
+          Top: strain"  :Middle: strain"  :Bottom: shear strain"  :
+
+
+
+
+
+
+
+          Fig. 6.  Strain distribution for case of 4 m bump height. Top: strain "  ;
+
+          Middle: strain"  : Bottom: shear strain"  :
+
+
+
+
+
+
+
+                                                                              Fig. 8.  Thermal strain measured by MicroDac.
+
+
+
+                                                                              surements on the IC structures. In-plane surface strain fields
+
+                                                                              of components under thermo-mechanical load are determined
+
+                                                                              from optical and electron optical micrographs. Speckle photo-
+
+                                                                              graphic basics are used to extend in-plane deformation measure-
+
+                                                                              ment. The high resolution of scanning electron microscopes al-
+
+                                                                              lows measuring local strain fields inside such small structures
+
+                                                                              of characteristic size of 50  m and less. A correlation-based
+
+                                                                              image-processing algorithm is then applied to determine a set
+
+                                                                              of local pattern displacements between two object states, and fi-
+
+                                                                              nally whole displacement fields are measured. The software is
+
+                                                                              able to track local structures with a subpixel accuracy of approx-
+
+                                                                              imately 10 nm.
+
+                                                                                Fig. 8 shows the strain fields measured by MicroDAC for
+
+                                                                              one ACA joint heated from room temperature to 116  C. The
+
+          Fig. 7.  Same as Fig. 5 but for the case of 40m bump height.       strain fields is for the second bump from right side (note that
+
+
+
+                                                                              the measurement is performed for different test chip other than
+
+              IV. THERMAL STRAIN MEASUREMENT OF ACA JOINT
+
+                                                                              test chip shown in Fig. 1). The general situation for this joint
+
+            A MicroDAC—a deformation measurement method based on  is that there is no essential shear in the field of measurement
+
+          correlation algorithms—was applied to local deformation mea-  and strain           and      increase toward the polymer substrate.
+
+
+
+              Authorized licensed use limited to: Universitatsbibliothek Erlangen Nurnberg. Downloaded on April 29,2024 at 12:01:46 UTC from IEEE Xplore.  Restrictions apply. 
+
+
+
+
+Evaluation Warning : The document was created with Spire.PDF for Python.             450                                                   IEEE TRANSACTIONS ON COMPONENTS AND PACKAGING TECHNOLOGIES, VOL. 23, NO. 3, SEPTEMBER 2000
+
+
+
+
+
+
+
+             In addition, a relatively high strain                 is localized in the in-              [3] I. Watanabe and K. Takemura, “Anisotropic conductive adhesive films
+
+             terface between bump and the pad. The measurements indicate                                    for flip-chip interconnection,” in Conductive Adhesives for Electronics
+
+             that: global thermal mismatch between board and silicon is not                                 Packaging, J. Liu, Ed.  London, U.K.: Electrochemical Publications
+
+                                                                                                            Ltd., 1998.
+
+             transferred in a high shear at the outermost bump interconnects.                           [4] M.-J. Yim, K. W. Paik, Y. K. Kim, and H. N. Hwang, “A study on the
+
+                                                                                                            electrical conduction mechanism of anisotropically conductive film
+
+                                                                                                            (ACF) for LCD packaging applications,” in Advances in Electronic
+
+                                                                                                            Packaging, New York: EEP, 1997, vol. 19-1, pp. 65–72.
+
+                               V. D                                                                     [5] M.-J. Yim, Y.-D. Jeon, and K.-W. Paik, “Electroless Ni bumped flip chip
+
+                                      ISCUSSION AND CONCLUSIONS
+
+                                                                                                            interconnections on an organic substrate using anisotropic conductive
+
+                                                                                                            adhesives films (ACAs/ACF’s),” in Extended Abstract in IMAPS Work-
+
+                Our calculations and the experiments show that the strain is                                shop on Flip Chip Technology.  Atlanta, GA: IMAPS, Mar. 1999.
+
+             highest for the outmost joint. The experiments indicate that the                           [6] J. Liu, Y. L. Kang, S. Liu, and J. Liu, private communication.
+
+             dominant strain is in the normal direction. Our measurements                               [7] J. H. Lau and Y.-H. Pao,Solder Joint Reliability of BGA, CSP, Flip Chip,
+
+                                                                                                            and Fine Pitch SMT Assemblies.  New York: McGraw-Hill, 1997.
+
+             give relative high strain (0.003) in the                direction in the pads
+
+             region, which is not found in the calculations. Strain                       is lo-
+
+             calized in the interface between the bumps and the pads. Rela-
+
+             tively low value shear strain (  0.001) is measured in the out-
+
+             most joints. The effect of bump height is significant only in  Kuntjoro Pinardi received the M.Sc. degree in electrical engineering from
+
+             the interface between the bumps and the pads. Bigger volume  Delft University of Technology, Delft, The Netherlands, in 1994.
+
+             area of high strain is found for higher bump. There is practi-                            He worked with IMEC, Leuven, Belgium, from 1994 to 1997, doing research
+
+                                                                                                     on stresses and strains of semiconductor devices. He is currently doing research
+
+             cally no effect of the bump height on the strain changes in the  on finite element modeling of different electronic packages.
+
+             bumps and in the pads. The effect of bump height is different for
+
+             ACA joints than for solder joints. For solder joints increasing the
+
+             bump height (stand-off) will increase the fatigue life of joints
+
+             because a high bump can relax the shear stresses in the corner
+
+             regions of the solder [7]. However, this is not the case for ACA  Zonghe Lai (M’97) received the Ph.D. degree in materials science from
+
+             flip-chip joints. We have shown here that the effect of the bump  Chalmers University of Technology, Mölndal, Sweden.
+
+                                                                                                       He joined IVF, Mölndal, in 1994, where he works on flip-chip assembly and
+
+             height in ACA joints will only be limited to the interface area  chip on board. His current research interest concentrates on the reliability and
+
+             between the bump and the pad. Therefore bump height is not  the failure mechanism of flip-chip adhesive joints and the bondability of wire
+
+             a controlling factor for the ACA joints reliability. However Lai  bonding, especially the microstructure analysis of materials using scanning elec-
+
+                                                                                                     tron microscopy (SEM), transmission electron microscopy (TEM), and other
+
+             et al. [1] showed that for ACA joints with rigid substrates, an  surface analysis instruments. He is currently working part time at Division of
+
+             excessively high bump (bump height of 70  m) could induce  Electronics Production, Chalmers University of Technology.
+
+             poor reliability. The reliability problems of having high bump
+
+             can occur since excessively high bump can easily cause a porous
+
+             structure in the ACA layers [1]. Both measurement and simula-
+
+             tion indicate that the strain is highest for the outmost joint and
+
+             the normal strain             and        are in the same order of magni-  Dietmar Vogel received the Ph.D. degree in physics from the University St.
+
+             tude. Compare to the experiments our calculations show high  Petersburg, Russia, in 1980.
+
+                                                                                                       He joined the Institute of Mechanics Chemnitz in 1983. Since 1993, he has
+
+             shear strain in the bump and in the pad. The reason for unco-  been working with the Fraunhofer Institute for Reliability and Microintegration
+
+             incident may come from both measurement accuracy and ACA  (IZM), Berlin, Germany. His work there is concentrated on laser experiments
+
+             parameters used in our calculations. Further work is necessary  and micro deformation analysis (MicroDAC) in the field of electronic pack-
+
+                                                                                                     aging.
+
+             to include some features that are not included at present such as:
+
+             1) Effect of particle size and particle distributions on the strains
+
+             and stresses variation and 2) effect of the planarity of the sub-
+
+             strate, bumps, and pads.
+
+                                                                                                     Yi Lan Kangis a Professor with Department of Mechanics, Tianjing University,
+
+                                                                                                     China.
+
+
+
+                                         ACKNOWLEDGMENT
+
+
+
+                The authors would like to thank Dr. Kristiansen for useful
+
+             comments and suggestions.
+
+                                                                                                     Johan Liu(M’92–SM’96) received the M.S. degree in science and the Ph.D. de-
+
+                                                                                                     gree in materials processing technology, both from the Royal Institute of Tech-
+
+                                                                                                     nology, Stockholm, Sweden, in 1984 and 1989, respectively.
+
+                                                                                                       He was with IVF, Mölndal, Sweden, until 1999 as a Team Leader and coor-
+
+                                              REFERENCES                                             dinated multiclient research programs concerning interconnecting technology
+
+                                                                                                     including conductive adhesive joining, chip on board, and lead free solders. He
+
+                [1] Z. Lai, R. Lai, K. Persson, and J. Liu, “Effect of bump height on the re-  is now a Professor at Chalmers University of Technology, Sweden, chairing the
+
+                     liability of ACA flip-chip joining with FR4 rigid and polyimide flexible  Division of Electronics Production since April 1999. He also serves as the Eu-
+
+                     substrate,” J. Electron. Manufact., vol. 8, no. 3, 4, pp. 1–8, 1998.            ropean Editor of the Journal of Electronics Manufacturing.
+
+                [2] J. Liu, “An overview of advances of conductive adhesive joining                    Dr. Liu is a member of IMAPS and was one of the initiators for the interna-
+
+                     technology in electronics applications,” Mater. Technol., vol. 10, pp.  tional conference on adhesive joining in electronics manufacturing, in which he
+
+                     247–252, 1995.                                                                  serves as Chairman of the Technical Committee.
+
+
+
+                  Authorized licensed use limited to: Universitatsbibliothek Erlangen Nurnberg. Downloaded on April 29,2024 at 12:01:46 UTC from IEEE Xplore.  Restrictions apply. 
+
+
+
+
+Evaluation Warning : The document was created with Spire.PDF for Python.             PINARDI et al.: EFFECT OF BUMP HEIGHT ON THE STRAIN VARIATION                                                                                                          451
+
+
+
+
+
+
+
+             Sheng Liu (M’94–A’95) received the B.S. and M.S. degrees in aircraft design  Ralf Haug received the diploma and Ph.D. degree in physics from the Univer-
+
+             from the Nanjing University of Aeronautics and Astronautics, Nanjing, China,  sity of Stuttgart, Germany.
+
+             in 1983 and 1986, respectively, and the Ph.D. degree in applied mechanics from            Since 1989, he has been with the Corporate Research and Development
+
+             Stanford University, Stanford, CA, in 1992.                                            Department, Robert Bosch GmbH, Stuttgart, Germany. His work centers
+
+               He joined Wayne State University (WSU), Detroit, MI, in 1995 as an Assis-  on polymer materials for electronics, conduction mechanisms of thick film
+
+             tant Professor, and is now an Associate Professor and the Director of the Elec-  resistors, and electronic packaging. His research involved conductive adhesives
+
+             tronic Packaging Laboratory. He was with the Florida Institute of Technology,  in electronics, especially fundamentals of anisotropically conductive materials,
+
+             Melbourne, from 1992 to 1995, as an Assistant Professor of Mechanical and  conduction mechanisms of isotropically conductive adhesives for SMT, and
+
+             Aerospace Engineering. He was with MARC Analysis Research Corporation,  flip-chip assembly technology with adhesives.
+
+             Palo Alto, CA (a nonlinear finite element company), as a Consulting Engineer
+
+             from January 1992 to May 1992, and Chengdu Aircraft Company, China, from
+
+             January 1986 to February 1988, as a Structural Design Engineer. He has been
+
+             working on mechanical and thermal design and analysis of composite mate-
+
+             rials, and fracture and progressive damage of layered materials and structures.
+
+             His basic research goal is to advance the application of mechanics in the anal-
+
+             ysis, design and fabrication of advanced materials and structures. The direct  Magnus Willander (M’91) was born in Varberg, Sweden, in 1948. He
+
+             involvement in experiments including engineering instrumentation, theoretical  received the M.Sc. degree in mathematics and physics from Lund University,
+
+             development, extensive numerical modeling and verification, and interactions  Lund, Sweden, in 1973, the M.Sc. degree in technical physics from Uppsala
+
+             with industry at every stage of the development have played significant roles in       University, Uppsala, Sweden, in 1976, and the Ph.D. degree in applied physics
+
+             his intellectual growth. He has published more than 90 technical articles in lay-  from the Royal Institute of Technology, Stockholm, Sweden, in 1984.
+
+             ered composites and packaging thermo-mechanical behaviors and reliability.                From 1976 to 1980, he was a Circuit Designer at Philips Corporation, Stock-
+
+               Dr. Liu received the Presidential Faculty Fellows award and the ASME  holm, Sweden. From 1980 to 1984, he was a Research Assistant at the Royal
+
+             EEPD Young Engineer Award. He is a member of ASME, ISHM, AIAA,  Institute of Technology. From 1984 to 1985, he was a Specialist in electronics
+
+             ASTM, and SAMPE. He is an Associate Editor for the IEEE TRANSACTIONS  at Nobel Industries, Stockholm. From 1985 to 1995, he was an Associate Pro-
+
+             ON ELECTRONICS PACKAGING MANUFACTURING. He is a member of the ASME  fessor at Linköping University, Linköping, Sweden, where he built up the De-
+
+             EEPD Manufacturing committee, ASME Division of Applied Mechanics  vice Physics Group working on quantum devices, field-effect and bipolar tran-
+
+             Composite Committee, and ASME Material Processing Committee. He also  sistors, and photonic devices, as well as trans-port and recombination properties
+
+             served as NSF Panelist for polymer and composite processing proposal reviews.  of semiconductors, where his research included epitaxial silicon, silicon/ger-
+
+             He has been involved in numerous national and international symposiums  manium, silicon carbide, InP/InGaAs, GaAs/AlGaAs, and polymer materials.
+
+             and meetings. For instance, he was one of the people who initiated the 1st  Since 1995, he has been a Professor of physics (particularly in nanoelectronics,
+
+             International Symposium of Electronic Packaging Technology in China in  photonics, and mesoscopic systems) at Göteborg University and Chalmers Uni-
+
+             1994 (ISEPT’94). Recently, he was the Co-Chair of the Joint 2nd ISEPT and  versity of Technology, Gothenburg, Sweden. He has published numerous scien-
+
+             1st ISHM International Electronic Packaging Conference, Shanghai, China,  tific publications in these areas.
+
+             December 1996.                                                                            Dr. Willander is a member of APS.
+
+
+
+
+
+
+
+                  Authorized licensed use limited to: Universitatsbibliothek Erlangen Nurnberg. Downloaded on April 29,2024 at 12:01:46 UTC from IEEE Xplore.  Restrictions apply. 
+
+
+
